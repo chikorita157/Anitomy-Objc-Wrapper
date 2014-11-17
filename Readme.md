@@ -5,6 +5,11 @@ This is a wrapper for Anitomy, which parses anime video filenames. This wrapper 
 Demo is [here](https://github.com/chikorita157/Anitomy-Objc-Wrapper-demo)
 
 #How to use
+Clone anitomy into your project. You can do this by adding it as a submodule:
+
+`git submodule add https://github.com/erengy/anitomy.git`
+
+
 Insert this to the Prefix Header File
 ```h
 #ifdef __cplusplus
